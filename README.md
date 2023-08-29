@@ -1,12 +1,20 @@
 # Canis Dark / Light
+[中文](#中文) | [English](#English)
+
 ## 中文
+
 這是我第一次自己製作的 VSCODE 主題，歡迎試試看！[下載連結](https://marketplace.visualstudio.com/items?itemName=canis22788.Canis)
+
 如果有任何問題，歡迎告訴我！
+
 這是我的[官方網站](https://iistw.com/)！
 
 ##  English
+
 It's my first time to create an color theme extension. Hope you guys could give it a try! [Download Here](https://marketplace.visualstudio.com/items?itemName=canis22788.Canis)
+
 By the way, if there are anything wrong, just tell me!
+
 In the end, this is my [official website](https://iistw.com/)!
 
 ## 截圖 Screenshot
